@@ -23,15 +23,14 @@ This project aims to develop an **interactive Python application** for retrievin
 ## 🚀 Technologies Used
 
 - 🐍 **Python 3.x**
-- 🖼️ **Tkinter** (or any GUI framework you're using)
+- 🖼️ **Tkinter**
 - 📡 **Wikipedia API**
-- 🌐 **Flask** (for web integration, if applicable)
+- 🌐 **Flask** (for web integration)
 - 🧰 **Requests**, **JSON**, etc.
 
 ---
 
 ## 📁 Project Structure
-
 
 ```
 ├── static/                       
@@ -45,3 +44,24 @@ This project aims to develop an **interactive Python application** for retrievin
 ├── wikiGUI.py                    # optional GUI based python file 
 └── wikiscrapper.py               # just basic terminal based python file
 ```
+
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/farhat-1203/WebScrapping.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd WebScrapping
+   ```
+3. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4.  **Run the main script**:
+    Run the flask file for accessing:
+    ```bash
+    python app.py
+    ```
