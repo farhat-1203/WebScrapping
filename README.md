@@ -60,8 +60,7 @@ This project aims to develop an **interactive Python application** for retrievin
    ```bash
    pip install -r requirements.txt
    ```
-4.  **Run the main script**:
-    Run the flask file for accessing:
+4.  Run the flask file for accessing:
     ```bash
     python app.py
     ```
